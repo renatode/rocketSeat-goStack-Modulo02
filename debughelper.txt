@@ -1,0 +1,6 @@
+1. Run yarn debug
+2. Select "Debug > Start Debugging [F5]" on VSCode
+3. Add breakpoints
+4. Run your code :)
+
+https://github.com/luizbatanero/gostack-meetapp/commit/12527dc8c30730d5667520200816f71f914b11d7
