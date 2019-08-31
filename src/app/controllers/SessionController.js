@@ -37,7 +37,7 @@ class SessionController {
         name,
         email,
       },
-      // string ==>  goBarberRocketSeatNode8
+
       token: jwt.sign({ id }, authConfig.secret, {
         expiresIn: authConfig.expiresIn,
       }),
